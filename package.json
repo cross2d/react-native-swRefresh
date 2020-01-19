@@ -1,13 +1,16 @@
 {
     "version": "1.2.3",
-    "name": "react-native-swRefresh",
+    "name": "@cross2d/react-native-sw-refresh",
     "description": "react native pull refresh push loadMore scrollView,listView下拉刷新下拉加载控件,支持自定义，简单好用",
     "repository": {
         "type": "git",
-        "url": "https://github.com/shiwenwen/react-native-swRefresh"
+        "url": "https://github.com/cross2d/@cross2d/react-native-sw-refresh"
     },
     "license": "MIT",
     "main": "./index.js",
+    "scripts": {
+        "release": "npm publish --access public"
+    },
     "keywords": [
         "react-component",
         "react-native",
@@ -19,6 +22,6 @@
         "上拉加载"
     ],
     "dependencies": {
-        
+
     }
 }
