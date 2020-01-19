@@ -1,5 +1,5 @@
 {
-    "version": "1.2.4",
+    "version": "1.2.5",
     "name": "@cross2d/react-native-sw-refresh",
     "description": "react native pull refresh push loadMore scrollView,listView下拉刷新下拉加载控件,支持自定义，简单好用",
     "repository": {
@@ -22,6 +22,6 @@
         "上拉加载"
     ],
     "dependencies": {
-
+        "prop-types": "^15.7.2"
     }
 }
